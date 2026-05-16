@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Tais/OneDrive/Documentos/GitHub/trabalho-manim-matematica/.venv/media/videos/teste/480p15/partial_movie_files/TesteInstalacao/1584795214_1440877931_223132457.mp4'
+file 'file:C:/Users/Tais/OneDrive/Documentos/GitHub/trabalho-manim-matematica/.venv/media/videos/teste/480p15/partial_movie_files/TesteInstalacao/4072820271_1178273232_1799188809.mp4'
+file 'file:C:/Users/Tais/OneDrive/Documentos/GitHub/trabalho-manim-matematica/.venv/media/videos/teste/480p15/partial_movie_files/TesteInstalacao/4072820271_4217992463_855393764.mp4'
+file 'file:C:/Users/Tais/OneDrive/Documentos/GitHub/trabalho-manim-matematica/.venv/media/videos/teste/480p15/partial_movie_files/TesteInstalacao/4072820271_1737847911_3192570419.mp4'
+file 'file:C:/Users/Tais/OneDrive/Documentos/GitHub/trabalho-manim-matematica/.venv/media/videos/teste/480p15/partial_movie_files/TesteInstalacao/4072820271_2844360058_3116346687.mp4'
